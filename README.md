@@ -11,4 +11,4 @@
 <img src="https://user-images.githubusercontent.com/51118441/91872111-76d18d80-ecb2-11ea-9916-ba0a03f6d094.PNG" width="80%">
 
 #### 시뮬레이터 명령어 수행 부분
-<img src="https://user-images.githubusercontent.com/51118441/91872118-7933e780-ecb2-11ea-97d3-2420ae3f9175.PNG" width="40%">
+<img src="https://user-images.githubusercontent.com/51118441/91872118-7933e780-ecb2-11ea-97d3-2420ae3f9175.PNG" width="30%">
